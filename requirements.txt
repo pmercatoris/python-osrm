@@ -4,4 +4,4 @@ numpy
 pandas
 shapely
 geopandas
-matplotlib==2.2.4
+matplotlib
