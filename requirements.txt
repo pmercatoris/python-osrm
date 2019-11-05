@@ -1,5 +1,5 @@
 polyline
-GDAL==2.4
+GDAL
 numpy
 pandas
 shapely
